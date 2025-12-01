@@ -1,2 +1,0 @@
-# Kutlama
-kutlama işte
