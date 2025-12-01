@@ -15,10 +15,8 @@ body {
 #cake {
   display: block;
   position: relative;
-  margin: -5em auto 0 auto;
-  width: 80vw;
-  max-width: 300px;
-  height: auto;
+  margin: -10em auto 0 auto;
+
 }
 
 .candle {
